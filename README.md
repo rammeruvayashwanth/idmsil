@@ -4,5 +4,6 @@ for hi, this is ismail, printing some text
 int main()
 {
 int a,b;
+int c;
 int sum a+b;
 }
